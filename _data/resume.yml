@@ -1,0 +1,73 @@
+title: Resume
+name: Ritika Mathur
+jobtitle: Software Development Engineer
+contact:
+  - icon: fa-envelope
+    text: mathurritika2006@gmail.com
+  - icon: fa-phone-square
+    text: +1 909 754 7141
+  - icon: fa-github
+    text: github
+    link: https://github.com/ritikmmathur/
+education:
+  - university: University Of Southern California
+    duration: Aug 2017 - May 2019
+    location: Los Angeles, USA
+    major: Masters in Science (Computer Science)
+  - university: Mody University of Science and Technology
+    duration: Aug 2011 - May 2015
+    location: Sikar, India
+    major: Bachelor of Technology (Computer Science)
+skills:
+  - title: Languages
+    items: Java, Python, PHP, Eslint, HTML, JavaScript, AngularJS, CSS, Spring
+  - title: Programming Paradigms
+    items: REST, AJAX, Web Crawling, Map Reduce
+  - title: Machine Learning
+    items: Perceptron, Hidden Markov Model, Naïve Bayes
+  - title: Database
+    items: DynamoDB, MongoDB
+experience:
+  - title: Graduate Intern
+    duration: May 2018 - Aug 2018
+    company: PayPal, USA
+    items: 
+      - item: Formulated Eslint rules to detect and report bad internationalization practices in NodeJS applications.
+      - item: Delivered python scripts to schedule execution of Eslint rules on NodeJS applications and store result in MongoDB.
+      - item: Provided AngularJS dashboard to view and compare results for a repository.
+  - title: Software Development Engineer
+    duration: Aug 2015 - Jun 2017
+    company: Amazon, India
+    items: 
+      - item: Communicated with product owners to deliver Java REST API to automate onboarding process. 
+      - item: Implemented pagination and caching solutions to improve Java REST API performance. 
+      - item: Directed migration and reverse migration of DynamoDB tables containing onboarding configuration data. 
+      - item: Supported in low-level and high-level design along with leading development in user interface experience for onboarding platform.
+  - title: Software Development Engineer Intern
+    duration: Jan 2015 - Jul 2015
+    company: Amazon, India
+    items: 
+      - item: Headed user interface design for onboarding platform using Balsamic wireframes. 
+      - item: Stimulated end to end archetype to demonstrate action lifecycle for customers and product owners.
+projects:
+  - name: Walter - Interrogation Training Tool
+    items: 
+      - item: Build Walter, a virtual human criminal using SmartBody to record interrogator’s question as audio, convert recorded audio to text using Google’s speech API and play prerecorded audio according to response text. 
+      - item: Performed natural language processing on text using RASA NLU for intent classification and entity extraction to generate appropriate response text.
+  - name: Artificial Intelligence
+    items: 
+      - item: Programmed AI system in python to determine optimal policy(move) that maximizes utility in 15 x 15 grid using value iteration. 
+      - item: Developed AI agent to find next best move for a player in 2 player game using the min-max algorithm.
+  - name: Natural Language Processing
+    items:
+      - item: Programmed a Hidden Markov Model part of speech tagging for English, Hindi and Chinese language. 
+      - item: Tokenized and tagged training data was used and tagger provided tags to tokenized test data. Build a Naïve Bayes classifier and Perceptron (vanilla and average) to classify hotel reviews as true or false and as positive or negative, using words as features for classification.
+  - name: Web Development and Search Engine
+    items: 
+      - item: Created a search engine using PHP and Solr to provide autocomplete, snippet and Norvig’s spell check functionality for 10K indexed articles of Fox News. 
+      - item: Constructed a responsive website using AngularJS to display current stock information and Highcharts to display overtime information provided by Alpha Vantage API.
+languages:
+  - name: English
+    proficiency: Work proficiency
+  - name: Hindi
+    proficiency: Native
